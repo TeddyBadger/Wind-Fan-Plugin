@@ -1,1 +1,1 @@
-blah blah blah
+This plug-in contains an actor blueprint; an actor component and a niagara particle 
