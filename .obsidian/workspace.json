@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "3b209c65722dffe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2563b29c8b5277b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12d224ff9b472fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "894d9f70dcef6067",
+    "type": "split",
+    "children": [
+      {
+        "id": "23045af33b39488a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab566cf7701da6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "156456f5aaf583c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee167f10947cba86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.83334350585938
+  },
+  "right": {
+    "id": "1c94e344b31e8bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "920747acd25f36ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c1c759bb535ab3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aether/Sorceries/Death/Death.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Death"
+            }
+          },
+          {
+            "id": "27967122728162f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aether/Sorceries/Death/Death.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Death"
+            }
+          },
+          {
+            "id": "aaa03c21b5176a03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d98f1e05cf4f43b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "80b355be1eb05da5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aether/Sorceries/Death/Death.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Death"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "12d224ff9b472fef",
+  "lastOpenFiles": [
+    "Introduction.md",
+    "World/2. Mesopelagic Layer/3. Icey Escarpment.md",
+    "World/3. Bathypelagic Layer/2. Sunken Kingdom.md",
+    "World/3. Bathypelagic Layer/2.5. Thalassic Conservatory.md",
+    "World/3. Bathypelagic Layer/Opt. Whirlpool Temple.md",
+    "World/3. Bathypelagic Layer/3. Scalding Caverns.md",
+    "World/3. Bathypelagic Layer/1. Lophelia Reef.md",
+    "Pasted image 20260829193807.png",
+    "World/1. Epipelagic Layer/1. Coral Shores.md",
+    "World/2. Mesopelagic Layer/4. Barren Ribbon.md",
+    "World/2. Mesopelagic Layer/2. Plagued Kelp Jungle.md",
+    "World/2. Mesopelagic Layer/1. Rhodolith Beds.md",
+    "World/1. Epipelagic Layer/2. Algae Meadow.md",
+    "Characters/Player.md",
+    "World/4. Abyssopelagic Layer",
+    "World/3. Bathypelagic Layer",
+    "Characters/Shopkeeper.md",
+    "World/2. Mesopelagic Layer",
+    "World/1. Epipelagic Layer",
+    "World/Epi",
+    "Creatures",
+    "Characters",
+    "World",
+    "Weapons/Unique Weapons/Axes/Great Axes.md",
+    "Weapons/Standard Weapons/Axes/Great Axes.md",
+    "Weapons/Unique Weapons/Axes/Axes.md",
+    "Weapons/Unique Weapons/Axes/Untitled",
+    "Weapons/Unique Weapons/Curved Swords/Curved Swords.md",
+    "Weapons/Standard Weapons/Curved Swords/Curved Swords.md",
+    "Weapons/Standard Weapons/Curved Swords/Curved Greatswords.md",
+    "Weapons/Standard Weapons/Axes/Axes.md",
+    "Weapons/Unique Weapons/Axes",
+    "Weapons/Weapon Traits.md",
+    "Weapons/Weapons.md",
+    "Weapons/Standard Weapons/Greatswords/Greatswords.md",
+    "Core/Core.md",
+    "Weapons/Unique Weapons/Twinblades/Twinblades.md",
+    "Races/Dynastarian/Dynastarian.png",
+    "Races/Ashen/Ashen.png",
+    "Races/Golem/Golem.png",
+    "Skill Trees/Races/Golem.canvas",
+    "Skill Trees/Races/Aeonian.canvas",
+    "Skill Trees/Races/Dynastarian.canvas",
+    "Skill Trees/Races/Numen.canvas",
+    "Races/Aeonian/Aeonian.png",
+    "Skill Trees/Races/Ashen.canvas",
+    "Skill Trees/Races/Albinauric.canvas",
+    "Skill Trees/Races/Empyrean.canvas",
+    "Skill Trees/Races/Omen.canvas",
+    "Races/Numen/Numen.png",
+    "Races/Dragonkin/Dragonkin.png",
+    "Races/Empyrean/Empyrean.png",
+    "Races/Albinauric/Albinauric.png",
+    "Skill Trees/Races/Doll.canvas",
+    "Skill Trees/Races/Dragonkin.canvas",
+    "Pasted image 20260725155333.png"
+  ]
+}
