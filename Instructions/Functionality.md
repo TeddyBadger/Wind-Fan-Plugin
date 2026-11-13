@@ -6,3 +6,15 @@ The first part of the event graph is this small section that simply takes whatev
 
 Something else that is needed at the start is the handling of the particle effects: the initial state of particles is set at the start of the game, and then it is set again when force is applied to make sure it matches the appropriate force that the fan is outputting.
 ![[ParticleSystemSetup.png]]
+
+---
+The main section begins with re-setting the state of the particles to match the force applied, then it uses a for loop to affect the whole array and only the objects in the array.
+![[ForceAppliedSetup.png]]
+
+---
+Once it is set to cycle through the array, it checks if the object is a character: This part is if it wants to push or pull the character.
+![[TheActorIsPlayer.png]]
+
+---
+If the "IsCharacter?" check is false, it turns to this section to push whatever other objects are in the array. The difference is needed as pushing an object requires a different component reference than pushing the character.
+![[TheActorIsNOTPlayer.png]]
