@@ -4,4 +4,5 @@ The first part of the event graph is this small section that simply takes whatev
 
 ---
 
-Something else that is needed at the start is the 
+Something else that is needed at the start is the handling of the particle effects: the initial state of particles is set at the start of the game, and then it is set again when force is applied to make sure it matches the appropriate force that the fan is outputting.
+![[ParticleSystemSetup.png]]
