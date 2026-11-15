@@ -12,4 +12,5 @@ The main actor: "BP_WindFan" has many variables that allows the user to control 
 |        On?        |      Boolean      |     No     |                          This controls whether the wind fan is on or off                          |
 |       Push?       |      Boolean      |     No     |                       This controls whether the force is pushing or pulling                       |
 |     Direction     |      Vector       |    Yes     |  This cannot be changed as it is set to be changed to whatever value is perpendicular to the fan  |
+
 There are two other variables used in this blueprint, however these cannot be seen in the engine as they are only used within the event graph to allow them to work as intended. These are: "Negative" which is a constant set to -1, used in some of the equations; and "OverlappingActors" which is an array that contains all the actors within the collision box that have the "Movable" tag.
