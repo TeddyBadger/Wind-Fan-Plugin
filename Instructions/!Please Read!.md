@@ -1,0 +1,1 @@
+If there are any problems, please let me know! This is currently in beta, so errors may occur. My discord is "mrteddy28" so please message me if you come across any issues!
